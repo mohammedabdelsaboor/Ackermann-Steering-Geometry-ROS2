@@ -6,3 +6,4 @@ Arduino Uno or compatible board
 Motor driver (L298N or any driver)
 Servo motor for steering but in this project i'll use dc motor for steering 
 Robot chassis with wheels and motors
+![IMG_0570](https://github.com/user-attachments/assets/dd38f70f-80a0-47aa-893c-93cf449eef9e)
